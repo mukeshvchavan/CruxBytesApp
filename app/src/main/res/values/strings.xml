@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CruxBytes App</string>
+
+    <string name="bulleted_list">
+        <li>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</li>\n
+        <li>Aliquam tincidunt mauris eu risus.</li>\n
+        <li>Vestibulum auctor dapibus neque.</li>\n
+        <li>Vestibulum auctor dapibus neque.</li>\n
+        <li>Vestibulum auctor dapibus neque.</li>\n
+        <li>Vestibulum auctor dapibus neque.</li>
+    </string>
+</resources>
